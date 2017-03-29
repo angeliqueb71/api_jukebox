@@ -1,0 +1,72 @@
+body {
+  background-image: url("http://www.suicidesquad.com/assets/images/cast/downloads/harley_quinn.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: purple;
+}
+
+#partio {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: purple;
+  text-decoration: none;
+}
+
+#sanz {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: darkred;
+  text-decoration: none;
+}
+
+#release {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: darkred;
+}
+
+#genre {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: lightblue;
+}
+
+#button {
+  padding-top: 40px;
+  text-align: center;
+}
+
+#play :hover {
+  color: green;
+}
+
+#play {
+  color: red;
+  padding-right: 25px;
+}
+
+#stop :hover {
+  color: red;
+}
+#pause, #stop {
+  color: purple;
+}
+#description {
+  font-size-adjust: auto;
+  font-kerning: normal;
+  font-family: 'Gloria Hallelujah', cursive;
+}
